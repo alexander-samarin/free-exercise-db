@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "glutes",
     "lower back",
@@ -20,9 +18,6 @@
     "Continue raising the bar to the overhead position, without rebending the knees."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Muscle_Snatch/0.jpg",
-    "Muscle_Snatch/1.jpg"
-  ],
+  "images": ["Muscle_Snatch/0", "Muscle_Snatch/1"],
   "id": "Muscle_Snatch"
 }

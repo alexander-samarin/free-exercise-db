@@ -4,13 +4,8 @@
   "level": "beginner",
   "mechanic": null,
   "equipment": "other",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "chest"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["biceps", "chest"],
   "instructions": [
     "Stand up straight with your legs together, holding a bodybar or broomstick.",
     "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",
@@ -18,8 +13,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Round_The_World_Shoulder_Stretch/0.jpg",
-    "Round_The_World_Shoulder_Stretch/1.jpg"
+    "Round_The_World_Shoulder_Stretch/0",
+    "Round_The_World_Shoulder_Stretch/1"
   ],
   "id": "Round_The_World_Shoulder_Stretch"
 }

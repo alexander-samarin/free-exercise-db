@@ -4,13 +4,8 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["chest", "shoulders"],
   "instructions": [
     "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.",
     "Lower yourself until your chest almost touches the floor as you inhale.",
@@ -19,8 +14,8 @@
   ],
   "category": "strength",
   "images": [
-    "Push-Ups_-_Close_Triceps_Position/0.jpg",
-    "Push-Ups_-_Close_Triceps_Position/1.jpg"
+    "Push-Ups_-_Close_Triceps_Position/0",
+    "Push-Ups_-_Close_Triceps_Position/1"
   ],
   "id": "Push-Ups_-_Close_Triceps_Position"
 }

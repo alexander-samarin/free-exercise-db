@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "forearms",
     "glutes",
@@ -20,9 +18,6 @@
     "Lower the weight by bending at the hips and guiding it to the ground."
   ],
   "category": "strongman",
-  "images": [
-    "Rickshaw_Deadlift/0.jpg",
-    "Rickshaw_Deadlift/1.jpg"
-  ],
+  "images": ["Rickshaw_Deadlift/0", "Rickshaw_Deadlift/1"],
   "id": "Rickshaw_Deadlift"
 }

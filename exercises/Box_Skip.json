@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -22,9 +20,6 @@
     "Then, step to the next box and repeat."
   ],
   "category": "plyometrics",
-  "images": [
-    "Box_Skip/0.jpg",
-    "Box_Skip/1.jpg"
-  ],
+  "images": ["Box_Skip/0", "Box_Skip/1"],
   "id": "Box_Skip"
 }

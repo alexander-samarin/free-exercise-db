@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -20,9 +18,6 @@
     "Immediately drop or jump back down to the original starting place; then repeat the sequence."
   ],
   "category": "plyometrics",
-  "images": [
-    "Box_Jump_Multiple_Response/0.jpg",
-    "Box_Jump_Multiple_Response/1.jpg"
-  ],
+  "images": ["Box_Jump_Multiple_Response/0", "Box_Jump_Multiple_Response/1"],
   "id": "Box_Jump_Multiple_Response"
 }

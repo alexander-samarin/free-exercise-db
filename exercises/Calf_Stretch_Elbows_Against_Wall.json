@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "calves"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand facing a wall from a couple feet away.",
     "Lean against the wall, placing your weight on your forearms.",
@@ -17,8 +13,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Calf_Stretch_Elbows_Against_Wall/0.jpg",
-    "Calf_Stretch_Elbows_Against_Wall/1.jpg"
+    "Calf_Stretch_Elbows_Against_Wall/0",
+    "Calf_Stretch_Elbows_Against_Wall/1"
   ],
   "id": "Calf_Stretch_Elbows_Against_Wall"
 }

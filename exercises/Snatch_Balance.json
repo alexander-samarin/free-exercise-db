@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "calves",
     "glutes",
@@ -21,9 +19,6 @@
     "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Snatch_Balance/0.jpg",
-    "Snatch_Balance/1.jpg"
-  ],
+  "images": ["Snatch_Balance/0", "Snatch_Balance/1"],
   "id": "Snatch_Balance"
 }

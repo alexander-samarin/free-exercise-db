@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -21,9 +19,6 @@
     "Repeat on the other side."
   ],
   "category": "plyometrics",
-  "images": [
-    "Sledgehammer_Swings/0.jpg",
-    "Sledgehammer_Swings/1.jpg"
-  ],
+  "images": ["Sledgehammer_Swings/0", "Sledgehammer_Swings/1"],
   "id": "Sledgehammer_Swings"
 }

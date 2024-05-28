@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [
     "chest",
     "glutes",
@@ -15,13 +13,8 @@
     "quadriceps",
     "traps"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
-  "images": [
-    "Iron_Cross/0.jpg",
-    "Iron_Cross/1.jpg"
-  ],
+  "images": ["Iron_Cross/0", "Iron_Cross/1"],
   "id": "Iron_Cross"
 }

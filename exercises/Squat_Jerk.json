@@ -4,9 +4,7 @@
   "level": "expert",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "calves",
     "glutes",
@@ -20,9 +18,6 @@
     "Keeping the bar aligned over the front of the heels, your head and chest up, drive throught heels of the feet to move to a standing position. Carefully return the weight to floor."
   ],
   "category": "strength",
-  "images": [
-    "Squat_Jerk/0.jpg",
-    "Squat_Jerk/1.jpg"
-  ],
+  "images": ["Squat_Jerk/0", "Squat_Jerk/1"],
   "id": "Squat_Jerk"
 }

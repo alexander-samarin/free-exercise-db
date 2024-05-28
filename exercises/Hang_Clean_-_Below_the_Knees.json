@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "calves",
     "forearms",
@@ -24,8 +22,8 @@
   ],
   "category": "olympic weightlifting",
   "images": [
-    "Hang_Clean_-_Below_the_Knees/0.jpg",
-    "Hang_Clean_-_Below_the_Knees/1.jpg"
+    "Hang_Clean_-_Below_the_Knees/0",
+    "Hang_Clean_-_Below_the_Knees/1"
   ],
   "id": "Hang_Clean_-_Below_the_Knees"
 }

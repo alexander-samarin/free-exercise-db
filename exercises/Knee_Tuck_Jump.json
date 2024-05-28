@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -20,9 +18,6 @@
     "Jump as high as you can, raising your knees up, and then ensure a good land be re-extending your legs, absorbing impact through be allowing the knees to rebend."
   ],
   "category": "plyometrics",
-  "images": [
-    "Knee_Tuck_Jump/0.jpg",
-    "Knee_Tuck_Jump/1.jpg"
-  ],
+  "images": ["Knee_Tuck_Jump/0", "Knee_Tuck_Jump/1"],
   "id": "Knee_Tuck_Jump"
 }

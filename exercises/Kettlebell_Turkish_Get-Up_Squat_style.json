@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [
     "abdominals",
     "calves",
@@ -21,8 +19,8 @@
   ],
   "category": "strength",
   "images": [
-    "Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
-    "Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+    "Kettlebell_Turkish_Get-Up_Squat_style/0",
+    "Kettlebell_Turkish_Get-Up_Squat_style/1"
   ],
   "id": "Kettlebell_Turkish_Get-Up_Squat_style"
 }

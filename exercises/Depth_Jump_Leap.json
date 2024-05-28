@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -21,9 +19,6 @@
     "Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact."
   ],
   "category": "plyometrics",
-  "images": [
-    "Depth_Jump_Leap/0.jpg",
-    "Depth_Jump_Leap/1.jpg"
-  ],
+  "images": ["Depth_Jump_Leap/0", "Depth_Jump_Leap/1"],
   "id": "Depth_Jump_Leap"
 }

@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "forearms",
     "glutes",
@@ -21,9 +19,6 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
-  "images": [
-    "Deficit_Deadlift/0.jpg",
-    "Deficit_Deadlift/1.jpg"
-  ],
+  "images": ["Deficit_Deadlift/0", "Deficit_Deadlift/1"],
   "id": "Deficit_Deadlift"
 }

@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -20,9 +18,6 @@
     "Perform fast skips by maintaining close contact with the ground and reduce air time, moving as quickly as possible."
   ],
   "category": "plyometrics",
-  "images": [
-    "Fast_Skipping/0.jpg",
-    "Fast_Skipping/1.jpg"
-  ],
+  "images": ["Fast_Skipping/0", "Fast_Skipping/1"],
   "id": "Fast_Skipping"
 }

@@ -4,12 +4,8 @@
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
     "Place your left hand behind your head.",
@@ -19,8 +15,8 @@
   ],
   "category": "strength",
   "images": [
-    "Oblique_Crunches_-_On_The_Floor/0.jpg",
-    "Oblique_Crunches_-_On_The_Floor/1.jpg"
+    "Oblique_Crunches_-_On_The_Floor/0",
+    "Oblique_Crunches_-_On_The_Floor/1"
   ],
   "id": "Oblique_Crunches_-_On_The_Floor"
 }

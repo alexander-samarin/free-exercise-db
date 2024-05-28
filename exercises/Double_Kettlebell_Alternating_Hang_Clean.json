@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "biceps",
     "calves",
@@ -23,8 +21,8 @@
   ],
   "category": "strength",
   "images": [
-    "Double_Kettlebell_Alternating_Hang_Clean/0.jpg",
-    "Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
+    "Double_Kettlebell_Alternating_Hang_Clean/0",
+    "Double_Kettlebell_Alternating_Hang_Clean/1"
   ],
   "id": "Double_Kettlebell_Alternating_Hang_Clean"
 }

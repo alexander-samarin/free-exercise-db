@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -21,9 +19,6 @@
     "At the bottom of the movement, reverse the motion, extending through the hip and knee to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Suspended_Split_Squat/0.jpg",
-    "Suspended_Split_Squat/1.jpg"
-  ],
+  "images": ["Suspended_Split_Squat/0", "Suspended_Split_Squat/1"],
   "id": "Suspended_Split_Squat"
 }

@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "machine",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [
     "glutes",
     "lower back",
@@ -24,8 +22,8 @@
   ],
   "category": "strength",
   "images": [
-    "Smith_Machine_Hang_Power_Clean/0.jpg",
-    "Smith_Machine_Hang_Power_Clean/1.jpg"
+    "Smith_Machine_Hang_Power_Clean/0",
+    "Smith_Machine_Hang_Power_Clean/1"
   ],
   "id": "Smith_Machine_Hang_Power_Clean"
 }

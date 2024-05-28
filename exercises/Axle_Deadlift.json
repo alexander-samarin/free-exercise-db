@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "forearms",
     "glutes",
@@ -22,9 +20,6 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "strongman",
-  "images": [
-    "Axle_Deadlift/0.jpg",
-    "Axle_Deadlift/1.jpg"
-  ],
+  "images": ["Axle_Deadlift/0", "Axle_Deadlift/1"],
   "id": "Axle_Deadlift"
 }

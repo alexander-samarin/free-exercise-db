@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "forearms",
     "glutes",
@@ -20,9 +18,6 @@
     "With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement. Return the weight to the pins and repeat."
   ],
   "category": "powerlifting",
-  "images": [
-    "Rack_Pull_with_Bands/0.jpg",
-    "Rack_Pull_with_Bands/1.jpg"
-  ],
+  "images": ["Rack_Pull_with_Bands/0", "Rack_Pull_with_Bands/1"],
   "id": "Rack_Pull_with_Bands"
 }

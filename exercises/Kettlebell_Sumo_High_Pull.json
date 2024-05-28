@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [
     "adductors",
     "glutes",
@@ -19,9 +17,6 @@
     "Begin by extending the hips and knees, simultaneously pulling the kettlebell to your shoulders, raising your elbows as you do so. Reverse the motion to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Sumo_High_Pull/0.jpg",
-    "Kettlebell_Sumo_High_Pull/1.jpg"
-  ],
+  "images": ["Kettlebell_Sumo_High_Pull/0", "Kettlebell_Sumo_High_Pull/1"],
   "id": "Kettlebell_Sumo_High_Pull"
 }

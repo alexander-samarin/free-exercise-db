@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["adductors"],
   "secondaryMuscles": [
     "abductors",
     "calves",
@@ -21,9 +19,6 @@
     "Use your legs to absorb impact upon landing, and rebound into the next jump, continuing down the row of cones."
   ],
   "category": "plyometrics",
-  "images": [
-    "Lateral_Cone_Hops/0.jpg",
-    "Lateral_Cone_Hops/1.jpg"
-  ],
+  "images": ["Lateral_Cone_Hops/0", "Lateral_Cone_Hops/1"],
   "id": "Lateral_Cone_Hops"
 }

@@ -4,14 +4,8 @@
   "level": "intermediate",
   "mechanic": "isolation",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "hamstrings",
-    "shoulders"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["glutes", "hamstrings", "shoulders"],
   "instructions": [
     "Clean and press a kettlebell overhead with one arm.",
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Keep the non-working arm behind your back and turn your feet out at a forty-five degree angle from the arm with the kettlebell.",
@@ -20,8 +14,8 @@
   ],
   "category": "strength",
   "images": [
-    "Advanced_Kettlebell_Windmill/0.jpg",
-    "Advanced_Kettlebell_Windmill/1.jpg"
+    "Advanced_Kettlebell_Windmill/0",
+    "Advanced_Kettlebell_Windmill/1"
   ],
   "id": "Advanced_Kettlebell_Windmill"
 }

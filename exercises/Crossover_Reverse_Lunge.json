@@ -4,9 +4,7 @@
   "level": "intermediate",
   "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "abdominals",
     "abductors",
@@ -20,9 +18,6 @@
     "After a brief pause, return to the starting position and repeat on the other side, continuing in an alternating fashion."
   ],
   "category": "stretching",
-  "images": [
-    "Crossover_Reverse_Lunge/0.jpg",
-    "Crossover_Reverse_Lunge/1.jpg"
-  ],
+  "images": ["Crossover_Reverse_Lunge/0", "Crossover_Reverse_Lunge/1"],
   "id": "Crossover_Reverse_Lunge"
 }

@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["adductors"],
   "secondaryMuscles": [
     "abductors",
     "calves",
@@ -22,9 +20,6 @@
     "Continue back and forth for several repetitions."
   ],
   "category": "plyometrics",
-  "images": [
-    "Lateral_Bound/0.jpg",
-    "Lateral_Bound/1.jpg"
-  ],
+  "images": ["Lateral_Bound/0", "Lateral_Bound/1"],
   "id": "Lateral_Bound"
 }

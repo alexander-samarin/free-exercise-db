@@ -4,9 +4,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "equipment": null,
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abductors",
     "adductors",
@@ -22,8 +20,8 @@
   ],
   "category": "plyometrics",
   "images": [
-    "Alternate_Leg_Diagonal_Bound/0.jpg",
-    "Alternate_Leg_Diagonal_Bound/1.jpg"
+    "Alternate_Leg_Diagonal_Bound/0",
+    "Alternate_Leg_Diagonal_Bound/1"
   ],
   "id": "Alternate_Leg_Diagonal_Bound"
 }
